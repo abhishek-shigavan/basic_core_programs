@@ -11,3 +11,4 @@
 7) EvenOdd -- Checking if number is even / odd number
 8) VowelConsonant -- Checking it the Alphabet is vowel / consonant
 9) LargestNumber -- Finding the largest number
+10) PrimeFactorization --  Computing Prime Factors of number 
